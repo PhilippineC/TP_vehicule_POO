@@ -1,0 +1,16 @@
+/* Styles de base */
+      body {
+       padding-top: 60px;
+       background-color: #dce4e6;
+        width: 80%;
+       margin: auto;
+       font-family: 'Quicksand', 'Arial';
+      }
+
+      .navbar-nav > li > a {
+        font-size : 1.3em;
+      }
+
+      .table-hover > tbody > tr:hover {
+    background-color: grey;
+    }
